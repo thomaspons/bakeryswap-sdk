@@ -1,5 +1,5 @@
 {
-  "name": "@thomaspons/bakeryswapsdk",
+  "name": "bakeryswapsdk",
   "license": "MIT",
   "version": "1.0.1",
   "description": "An SDK for building applications on top of pancakeswap.",
