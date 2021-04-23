@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/sonicsmith/bakeryswap-sdk.git",
+  "repository": "https://github.com/thomaspons/bakeryswap-sdk.git",
   "keywords": [
     "bakeryswap",
     "ethereum"
@@ -55,5 +55,8 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
+  },
+  "publishConfig": {
+    "registry":"https://registry.npmjs.org/"
   }
 }
